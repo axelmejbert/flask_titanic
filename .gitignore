@@ -1,0 +1,12 @@
+# Ignore compiled Python files
+*.pyc
+
+# Ignore the virtual environment directory
+venv/
+
+# Ignore log files
+*.log
+
+# Ignore user-specific IDE settings
+.idea/
+.vscode/
